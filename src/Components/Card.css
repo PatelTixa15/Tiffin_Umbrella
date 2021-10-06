@@ -1,0 +1,39 @@
+.MuiCardHeader-content {
+    flex: 1 1 auto;
+    justify-content: center;
+    display: flex;
+}
+
+.MuiCardContent-root {
+    padding: 16px;
+    display: grid;
+    justify-content: center;
+}
+
+.MuiCardActions-root {
+    display: flex;
+    padding: 8px;
+    justify-content: flex-end;
+}
+.btnstyle{
+    color: beige;
+    text-decoration: 'none';
+    margin-right: 30px;
+    
+}
+.btnstyle:hover{
+    cursor: pointer;
+    color:beige
+}
+.Description-text{
+    white-space: nowrap; 
+    width: 50px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    border: 1px solid #292424;
+}
+
+.a:hover 
+      { 
+         color: green; 
+      } 
